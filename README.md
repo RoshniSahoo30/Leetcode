@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RoshniSahoo30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/RoshniSahoo30/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RoshniSahoo30/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
