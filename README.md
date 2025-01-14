@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RoshniSahoo30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/RoshniSahoo30/Leetcode/tree/master/0735-asteroid-collision) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/RoshniSahoo30/Leetcode/tree/master/0735-asteroid-collision) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/RoshniSahoo30/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Math
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/RoshniSahoo30/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
