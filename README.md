@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RoshniSahoo30/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/RoshniSahoo30/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RoshniSahoo30/Leetcode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/RoshniSahoo30/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RoshniSahoo30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RoshniSahoo30/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Design
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/RoshniSahoo30/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
