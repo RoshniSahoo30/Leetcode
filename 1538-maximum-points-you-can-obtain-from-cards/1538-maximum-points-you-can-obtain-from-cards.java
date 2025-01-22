@@ -1,12 +1,17 @@
 class Solution {
-    public int maxScore(int[] C, int K) {
-        int total = 0;
-        for (int i = 0; i < K; i++) total += C[i];
-        int best = total;
-        for (int i = K - 1, j = C.length - 1; i >= 0; i--, j--) {
-            total += C[j] - C[i];
-            best = Math.max(best, total);
+    public int maxScore(int[] c, int k) {
+        int leftSum = 0, rightSum = 0, n = c.length, result = 0;
+        for (int i = 0; i < k; i++) {
+            leftSum += c[i];
         }
-        return best;
+        result = leftSum; 
+        int r = n - 1; 
+        for (int j = k - 1; j >= 0; j--) {
+            leftSum -= c[j]; 
+            rightSum += c[r]; 
+            r--; 
+            result = Math.max(result, leftSum + rightSum); 
+        }
+        return result;
     }
 }
