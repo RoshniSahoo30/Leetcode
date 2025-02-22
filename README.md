@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/RoshniSahoo30/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0047-permutations-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0047-permutations-ii) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
 | [1539-diagonal-traverse-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/RoshniSahoo30/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/RoshniSahoo30/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0047-permutations-ii) |
 ## String Matching
 |  |
 | ------- |
