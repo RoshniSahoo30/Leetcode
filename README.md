@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/RoshniSahoo30/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/RoshniSahoo30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
 ## Stack
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/RoshniSahoo30/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/RoshniSahoo30/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RoshniSahoo30/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/RoshniSahoo30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/RoshniSahoo30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/RoshniSahoo30/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/RoshniSahoo30/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
