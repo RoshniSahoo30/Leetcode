@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshniSahoo30/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1603-running-sum-of-1d-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RoshniSahoo30/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshniSahoo30/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1603-running-sum-of-1d-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RoshniSahoo30/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Counting
