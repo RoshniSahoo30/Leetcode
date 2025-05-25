@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RoshniSahoo30/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RoshniSahoo30/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RoshniSahoo30/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/RoshniSahoo30/Leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RoshniSahoo30/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/RoshniSahoo30/Leetcode/tree/master/0089-gray-code) |
 | [0800-letter-case-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2509-minimize-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/2509-minimize-xor) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/RoshniSahoo30/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/RoshniSahoo30/Leetcode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/RoshniSahoo30/Leetcode/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/RoshniSahoo30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/0800-letter-case-permutation) |
