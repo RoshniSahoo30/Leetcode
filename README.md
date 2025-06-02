@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniSahoo30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshniSahoo30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RoshniSahoo30/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RoshniSahoo30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RoshniSahoo30/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RoshniSahoo30/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshniSahoo30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RoshniSahoo30/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RoshniSahoo30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RoshniSahoo30/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RoshniSahoo30/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/RoshniSahoo30/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
