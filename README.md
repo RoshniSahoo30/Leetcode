@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RoshniSahoo30/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RoshniSahoo30/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/RoshniSahoo30/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RoshniSahoo30/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RoshniSahoo30/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RoshniSahoo30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RoshniSahoo30/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshniSahoo30/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RoshniSahoo30/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RoshniSahoo30/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Counting
