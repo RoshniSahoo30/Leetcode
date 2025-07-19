@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/RoshniSahoo30/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RoshniSahoo30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RoshniSahoo30/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RoshniSahoo30/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RoshniSahoo30/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RoshniSahoo30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RoshniSahoo30/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RoshniSahoo30/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RoshniSahoo30/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/RoshniSahoo30/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RoshniSahoo30/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RoshniSahoo30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -367,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RoshniSahoo30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/RoshniSahoo30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
