@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/0800-letter-case-permutation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RoshniSahoo30/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RoshniSahoo30/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RoshniSahoo30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RoshniSahoo30/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
