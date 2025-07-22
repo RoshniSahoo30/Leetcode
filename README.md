@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RoshniSahoo30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RoshniSahoo30/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RoshniSahoo30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshniSahoo30/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RoshniSahoo30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1539-diagonal-traverse-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/RoshniSahoo30/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RoshniSahoo30/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/RoshniSahoo30/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RoshniSahoo30/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RoshniSahoo30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2509-minimize-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/2509-minimize-xor) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RoshniSahoo30/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RoshniSahoo30/Leetcode/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RoshniSahoo30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1539-diagonal-traverse-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/RoshniSahoo30/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
