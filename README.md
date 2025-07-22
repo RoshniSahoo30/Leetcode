@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/RoshniSahoo30/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/RoshniSahoo30/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RoshniSahoo30/Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RoshniSahoo30/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/RoshniSahoo30/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/RoshniSahoo30/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RoshniSahoo30/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RoshniSahoo30/Leetcode/tree/master/0070-climbing-stairs) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RoshniSahoo30/Leetcode/tree/master/0048-rotate-image) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RoshniSahoo30/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/RoshniSahoo30/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Bit Manipulation
