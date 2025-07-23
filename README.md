@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RoshniSahoo30/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RoshniSahoo30/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RoshniSahoo30/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/RoshniSahoo30/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RoshniSahoo30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RoshniSahoo30/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RoshniSahoo30/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RoshniSahoo30/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/RoshniSahoo30/Leetcode/tree/master/3760-assign-elements-to-groups-with-constraints) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/RoshniSahoo30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0678-valid-parenthesis-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshniSahoo30/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RoshniSahoo30/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RoshniSahoo30/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RoshniSahoo30/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RoshniSahoo30/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RoshniSahoo30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1539-diagonal-traverse-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [2118-maximum-earnings-from-taxi](https://github.com/RoshniSahoo30/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/RoshniSahoo30/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3321-type-of-triangle](https://github.com/RoshniSahoo30/Leetcode/tree/master/3321-type-of-triangle) |
