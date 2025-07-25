@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-maximum-subarray-with-equal-products](https://github.com/RoshniSahoo30/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/RoshniSahoo30/Leetcode/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RoshniSahoo30/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RoshniSahoo30/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RoshniSahoo30/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/RoshniSahoo30/Leetcode/tree/master/3760-assign-elements-to-groups-with-constraints) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RoshniSahoo30/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2509-minimize-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/2509-minimize-xor) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RoshniSahoo30/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RoshniSahoo30/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
