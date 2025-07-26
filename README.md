@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/RoshniSahoo30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshniSahoo30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshniSahoo30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RoshniSahoo30/Leetcode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RoshniSahoo30/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshniSahoo30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/RoshniSahoo30/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/RoshniSahoo30/Leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshniSahoo30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RoshniSahoo30/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
