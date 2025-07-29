@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-sum-of-variable-length-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/RoshniSahoo30/Leetcode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RoshniSahoo30/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3936-split-array-by-prime-indices](https://github.com/RoshniSahoo30/Leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## Math
 |  |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RoshniSahoo30/Leetcode/tree/master/0048-rotate-image) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RoshniSahoo30/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/RoshniSahoo30/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshniSahoo30/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RoshniSahoo30/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RoshniSahoo30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/RoshniSahoo30/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RoshniSahoo30/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RoshniSahoo30/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/RoshniSahoo30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Union Find
+|  |
+| ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
