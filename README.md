@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2118-maximum-earnings-from-taxi](https://github.com/RoshniSahoo30/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RoshniSahoo30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RoshniSahoo30/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RoshniSahoo30/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RoshniSahoo30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/RoshniSahoo30/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/RoshniSahoo30/Leetcode/tree/master/0089-gray-code) |
 | [0800-letter-case-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RoshniSahoo30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RoshniSahoo30/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/2509-minimize-xor) |
 ## Tree
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/RoshniSahoo30/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/RoshniSahoo30/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RoshniSahoo30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
 |  |
 | ------- |
