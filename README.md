@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/RoshniSahoo30/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RoshniSahoo30/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RoshniSahoo30/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/RoshniSahoo30/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RoshniSahoo30/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RoshniSahoo30/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/RoshniSahoo30/Leetcode/tree/master/0089-gray-code) |
 | [0800-letter-case-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RoshniSahoo30/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/2509-minimize-xor) |
 ## Tree
 |  |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RoshniSahoo30/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
