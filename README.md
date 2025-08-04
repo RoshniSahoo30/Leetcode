@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3321-type-of-triangle](https://github.com/RoshniSahoo30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/RoshniSahoo30/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/RoshniSahoo30/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3936-split-array-by-prime-indices](https://github.com/RoshniSahoo30/Leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## Sliding Window
 |  |
