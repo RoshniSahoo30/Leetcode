@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/RoshniSahoo30/Leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/RoshniSahoo30/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/RoshniSahoo30/Leetcode/tree/master/0049-group-anagrams) |
+| [0274-h-index](https://github.com/RoshniSahoo30/Leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RoshniSahoo30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1539-diagonal-traverse-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1539-diagonal-traverse-ii) |
@@ -454,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RoshniSahoo30/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
