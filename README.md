@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/RoshniSahoo30/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0275-h-index-ii) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RoshniSahoo30/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshniSahoo30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0275-h-index-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RoshniSahoo30/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2118-maximum-earnings-from-taxi](https://github.com/RoshniSahoo30/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
