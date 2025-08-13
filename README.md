@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/RoshniSahoo30/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/RoshniSahoo30/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/RoshniSahoo30/Leetcode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/RoshniSahoo30/Leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RoshniSahoo30/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RoshniSahoo30/Leetcode/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/RoshniSahoo30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0523-continuous-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
