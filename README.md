@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RoshniSahoo30/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RoshniSahoo30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RoshniSahoo30/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/RoshniSahoo30/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
