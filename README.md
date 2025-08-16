@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RoshniSahoo30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/1448-maximum-69-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/RoshniSahoo30/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RoshniSahoo30/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RoshniSahoo30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2509-minimize-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/2509-minimize-xor) |
