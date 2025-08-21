@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/RoshniSahoo30/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RoshniSahoo30/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RoshniSahoo30/Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/RoshniSahoo30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0523-continuous-subarray-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1013-fibonacci-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RoshniSahoo30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/1448-maximum-69-number) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/RoshniSahoo30/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0678-valid-parenthesis-string](https://github.com/RoshniSahoo30/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/RoshniSahoo30/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/1013-fibonacci-number) |
 | [1628-count-submatrices-with-all-ones](https://github.com/RoshniSahoo30/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2118-maximum-earnings-from-taxi](https://github.com/RoshniSahoo30/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 ## Binary Search
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RoshniSahoo30/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
