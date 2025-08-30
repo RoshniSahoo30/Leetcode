@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/RoshniSahoo30/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RoshniSahoo30/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RoshniSahoo30/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/RoshniSahoo30/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/RoshniSahoo30/Leetcode/tree/master/3321-type-of-triangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/RoshniSahoo30/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
