@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RoshniSahoo30/Leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RoshniSahoo30/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RoshniSahoo30/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RoshniSahoo30/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RoshniSahoo30/Leetcode/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/RoshniSahoo30/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RoshniSahoo30/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RoshniSahoo30/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RoshniSahoo30/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RoshniSahoo30/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/RoshniSahoo30/Leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RoshniSahoo30/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
