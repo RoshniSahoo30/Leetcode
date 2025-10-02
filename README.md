@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RoshniSahoo30/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/RoshniSahoo30/Leetcode/tree/master/1448-maximum-69-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1642-water-bottles](https://github.com/RoshniSahoo30/Leetcode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RoshniSahoo30/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RoshniSahoo30/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/RoshniSahoo30/Leetcode/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/RoshniSahoo30/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/RoshniSahoo30/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RoshniSahoo30/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
