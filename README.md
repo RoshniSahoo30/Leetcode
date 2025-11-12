@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3936-split-array-by-prime-indices](https://github.com/RoshniSahoo30/Leetcode/tree/master/3936-split-array-by-prime-indices) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-assign-elements-to-groups-with-constraints](https://github.com/RoshniSahoo30/Leetcode/tree/master/3760-assign-elements-to-groups-with-constraints) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RoshniSahoo30/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RoshniSahoo30/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/RoshniSahoo30/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/RoshniSahoo30/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RoshniSahoo30/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RoshniSahoo30/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RoshniSahoo30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RoshniSahoo30/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -545,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -566,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
