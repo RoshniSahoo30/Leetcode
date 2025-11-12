@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3936-split-array-by-prime-indices](https://github.com/RoshniSahoo30/Leetcode/tree/master/3936-split-array-by-prime-indices) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RoshniSahoo30/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Monotonic Stack
 |  |
 | ------- |
