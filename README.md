@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/RoshniSahoo30/Leetcode/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3936-split-array-by-prime-indices](https://github.com/RoshniSahoo30/Leetcode/tree/master/3936-split-array-by-prime-indices) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-maximum-subarray-with-equal-products](https://github.com/RoshniSahoo30/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/RoshniSahoo30/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3936-split-array-by-prime-indices](https://github.com/RoshniSahoo30/Leetcode/tree/master/3936-split-array-by-prime-indices) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
 |  |
 | ------- |
