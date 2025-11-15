@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/RoshniSahoo30/Leetcode/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RoshniSahoo30/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/RoshniSahoo30/Leetcode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
