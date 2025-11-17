@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/RoshniSahoo30/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/RoshniSahoo30/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/RoshniSahoo30/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/RoshniSahoo30/Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RoshniSahoo30/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/1603-running-sum-of-1d-array) |
