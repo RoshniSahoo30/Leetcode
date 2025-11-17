@@ -6,11 +6,8 @@ class Solution {
         {
             if(i>val)
             return false;
-            val=Math.max(val, i+nums[i]);
-            if(val>=nums.length-1)
-            return true;
+            val=Math.max(val,i+nums[i]);
         }
-
         return true;
     }
 }
