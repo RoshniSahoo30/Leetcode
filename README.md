@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RoshniSahoo30/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RoshniSahoo30/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RoshniSahoo30/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/RoshniSahoo30/Leetcode/tree/master/0048-rotate-image) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RoshniSahoo30/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/RoshniSahoo30/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/RoshniSahoo30/Leetcode/tree/master/0455-assign-cookies) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RoshniSahoo30/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/RoshniSahoo30/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RoshniSahoo30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RoshniSahoo30/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RoshniSahoo30/Leetcode/tree/master/0062-unique-paths) |
